@@ -1,0 +1,3 @@
+https://github.com/shyjal/reactnative-android-production
+https://facebook.github.io/react-native/docs/signed-apk-android.html
+ cd android && ./gradlew assembleRelease
